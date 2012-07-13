@@ -25,7 +25,7 @@ include 'header.php';
 					</li>
 					<li>
 						<label for="password">Password</label>
-						<input id="password" name="password" type=text placeholder="Enter your password" required>
+						<input id="password" name="password" type=password placeholder="Enter your password" required>
 					</li>
 				</ol>
 			</fieldset>

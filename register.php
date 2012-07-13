@@ -33,7 +33,7 @@ include 'header.php';
 					</li>
 					<li>
 						<label for="password">Password</label>
-						<input id="password" name="password" type=text placeholder="Enter a password" required>
+						<input id="password" name="password" type=password placeholder="Enter a password" required>
 					</li>
 				</ol>
 			</fieldset>
